@@ -1,0 +1,3 @@
+prompts:
+  - 'hello.prompty'
+threshold: 0.6
